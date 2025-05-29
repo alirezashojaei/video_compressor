@@ -184,7 +184,6 @@ temp/
 
 # CSV files
 *.csv
-*.txt
 
 # Lock files
 *.lock
